@@ -9,7 +9,7 @@ define('BOT_USERNAME', '@nivademo_bot');
 define('DEBUG_MODE', true);
 
 // Webhook URL (set this in Telegram API later)
-define('WEBHOOK_URL', 'https://yourdomain.com/path/to/bot');
+define('WEBHOOK_URL', 'https://borah557.github.io/telegram-bot-php/');
 
 // Database configuration (if needed)
 // define('DB_HOST', 'localhost');
