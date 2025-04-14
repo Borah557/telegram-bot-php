@@ -1,9 +1,9 @@
 <?php
 // Replace with your actual bot token from @BotFather
-define('BOT_TOKEN', 'YOUR_TELEGRAM_BOT_TOKEN');
+define('BOT_TOKEN', '7726363743:AAEI6ntY9t_fqVMr3-6sLBSZcQ9t6yl30kA');
 
 // Replace with your bot username
-define('BOT_USERNAME', 'YourBotUsername');
+define('BOT_USERNAME', '@nivademo_bot');
 
 // Set to true to enable debug mode
 define('DEBUG_MODE', true);
